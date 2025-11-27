@@ -1,5 +1,3 @@
-![WhatsApp Image 2025-11-22 at 14 27 37_13001ee2](https://github.com/user-attachments/assets/d2957520-eceb-4552-91e3-65bf21f062c7)# Electronic-Circuits--RC-Phase-Shift-Oscillator
-
 ## AIM:
 To simulate a RC Pase Shift Oscillator and to verify the output.
 
